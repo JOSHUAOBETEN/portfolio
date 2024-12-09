@@ -275,6 +275,7 @@ span{
 .about-content p{
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+    text-align: center;
 }
 .about-content .text-animation span::before{
     content: 'FrontEnd Developer';
